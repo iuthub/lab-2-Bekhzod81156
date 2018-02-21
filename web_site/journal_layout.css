@@ -1,0 +1,34 @@
+.body
+{
+	border: 3px green solid;
+	background-color: white;
+}
+.top
+{
+	border: 3px red solid;
+	float: right;
+
+}
+.yellow
+{
+	border: 3px yellow solid;
+	clear: right;
+}
+#date
+{
+	border: 3px purple solid;
+}
+.blue
+{
+	border: 3px blue solid;
+	background-color: #E8FBFB;
+	padding: 5px;
+	margin-top: 10px;
+}
+.main
+{
+	margin-left: 10%;
+	margin-right:10%;
+	background: url("http://www.cs.washington.edu/education/courses/190m/09sp/labs/2‐journal/images/background.gif");
+
+}
